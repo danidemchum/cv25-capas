@@ -1,0 +1,15 @@
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll

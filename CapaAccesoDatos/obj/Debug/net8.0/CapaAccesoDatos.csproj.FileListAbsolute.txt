@@ -1,0 +1,11 @@
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
