@@ -35,3 +35,4 @@ C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerProgra
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.pdb
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.genruntimeconfig.cache
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaPresentacion\obj\Debug\net8.0\ref\CapaPresentacion.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.sourcelink.json
