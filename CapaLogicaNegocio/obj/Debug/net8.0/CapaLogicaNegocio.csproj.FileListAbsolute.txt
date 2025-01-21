@@ -13,3 +13,4 @@ C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerProgra
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
 C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\Erika Demchum\Documents\Daniela\Curso de Verano 2025\Capas\PrimerPrograma\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.sourcelink.json
